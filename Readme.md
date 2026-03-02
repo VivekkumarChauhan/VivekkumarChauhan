@@ -257,7 +257,7 @@ A passionate **AI/ML Developer** and Computer Engineering student with a minor i
     <img src="https://img.shields.io/badge/-Vivekkumar%20Chauhan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:vivekchauhan2385@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-vivekchauhan2385@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/-chauhanvivekkumar70@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://github.com/VivekkumarChauhan" target="_blank">
     <img src="https://img.shields.io/badge/-VivekkumarChauhan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
