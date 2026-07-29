@@ -2,14 +2,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D4AA,100:FF6B9D&height=200&section=header&text=Vivekkumar%20Chauhan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20RAG%20%26%20Agentic%20Systems&descAlignY=58&descSize=17&animation=fadeIn" />
 
-### 🤖 Building production GenAI systems · RAG Pipelines · LLM Agents · Fine-Tuning · RLHF
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Building+production+GenAI+systems+%F0%9F%A4%96;RAG+Pipelines+%7C+LLM+Agents+%7C+Fine-Tuning;RLHF+%7C+LangChain+%7C+FastAPI+%7C+Vector+DBs;Shipping+AI+that+solves+real+problems+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekkumarchauhan.vercel.app/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-VivekkumarChauhan-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekkumarChauhan)
-
 
 </div>
 
@@ -21,7 +22,7 @@
 
 I'm an **AI/ML Engineer** based in Mumbai with 1+ year of production experience designing, training, and deploying AI/ML and Generative AI systems. I work across the full stack of modern AI engineering — from fine-tuning reward models and building RAG pipelines, to shipping agentic platforms with FastAPI, React, and Docker.
 
-Currently building **AI-driven automation and financial tooling** , and shipping side projects in RLHF, multi-agent systems, and document intelligence.
+Currently building **AI-driven automation and financial tooling**, and shipping side projects in RLHF, multi-agent systems, and document intelligence.
 
 ---
 
@@ -29,7 +30,7 @@ Currently building **AI-driven automation and financial tooling** , and shipping
 
 ```python
 vivek = {
-    "role":           "AI & Automation Engineer ",
+    "role":           "AI & Automation Engineer",
     "focused_on":      ["LLM Agents", "RAG Pipelines", "RLHF Fine-Tuning"],
     "building":        "Multi-agent platforms & document intelligence systems",
     "stack":           ["LangChain", "LangGraph", "FastAPI", "React 18", "Docker"],
@@ -148,7 +149,7 @@ vivek = {
 - 🔬 **[ResearchGPT-Pro](https://github.com/VivekkumarChauhan/ResearchGPT-Pro)** — Advanced multi-document RAG system for research synthesis
 - 🤖 **[Insurance-AI-Research-Agent](https://github.com/VivekkumarChauhan/Insurance-AI-Research-Agent)** — Agentic research assistant for insurance domain queries
 - 🏥 **Sehat Sathi** — AI-powered healthcare platform integrating ML models, NLP chatbots, and a Flutter mobile interface for diagnostics in underserved areas
-- 👁️ **Glaucoma Detection (VGG-16)** — CNN-based detection from retinal fundus images, published at  International Conference
+- 👁️ **Glaucoma Detection (VGG-16)** — CNN-based detection from retinal fundus images, published at TCOE International Conference
 
 </details>
 
@@ -156,7 +157,7 @@ vivek = {
 
 ## 💼 Experience
 
-**AI & Automation Engineer** —  · *May 2025 – Present*
+**AI & Automation Engineer** · *May 2025 – Present*
 - Designed AI/ML automation pipelines integrating OpenAI, Claude & Groq LLMs for financial document generation and internal tooling
 - Improved GenAI output accuracy by ~40% by identifying and fixing hallucination, formatting, and tone-drift failure modes
 - Built FastAPI + PostgreSQL pipelines for real-time financial data ingestion, eliminating manual processing entirely
@@ -194,6 +195,7 @@ vivek = {
 ---
 
 
+
 **Certifications**
 
 ![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Prompt%20Engineering-blue?style=flat-square)
@@ -202,7 +204,7 @@ vivek = {
 ![AWS](https://img.shields.io/badge/AWS%20Academy-Data%20Engineering-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Hackathons & Achievements**
-- 🏆 Winner —  Hackathon 2024 | First Runner-Up —  Hackathon 2023
+- 🏆 Winner — Theem Hackathon 2024 | First Runner-Up — Theem Hackathon 2023
 - 🥉 Top 10 — ACE Hacks, Atharva College of Engineering
 
 ---
